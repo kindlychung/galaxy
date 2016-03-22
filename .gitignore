@@ -8,6 +8,9 @@ scripts/scramble/archives
 # Python virtualenv
 .venv
 
+# deps
+deps
+
 # Database stuff
 database/beaker_sessions
 database/citations
